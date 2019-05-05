@@ -1,2 +1,4 @@
-body,h1,h2 {font-family: 'roboto condensed',sans-serif; text-align: center; alignment-baseline: center; vertical-align: middle; height: 1000px}
+h2, h3, body {font-family: 'roboto condensed',sans-serif; text-align: center; alignment-baseline: center;color: white; vertical-align: middle;}
 
+h1 {font-family: 'roboto condensed',sans-serif; color: white; text-align: center}
+body {background-color: black}
