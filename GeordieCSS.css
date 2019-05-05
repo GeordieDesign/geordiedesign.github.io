@@ -1,2 +1,2 @@
-body,h1,h2 {font-family: 'roboto condensed',sans-serif; align-content: center;}
+body,h1,h2 {font-family: 'roboto condensed',sans-serif; text-align: center; alignment-baseline: center; vertical-align: middle; height: 1000px}
 
