@@ -1,6 +1,6 @@
 h2 {font-family: 'roboto condensed',sans-serif; font-weight: 300; text-align: center; alignment-baseline: center;color: whitesmoke; vertical-align: middle; font-size: 8vw; letter-spacing: 20PX;}
 h1 {font-family: 'roboto condensed',sans-serif; font-weight: 700; font-size: 8vw; color: white; text-align: center; vertical-align: middle; letter-spacing: 10px; margin-bottom: 0PX;}
-body {font-family: 'roboto condensed',sans-serif; background-color: black; vertical-align: middle; font-weight:300; color: white;text-align: center;font-size: 30px;}
+body {font-family: 'roboto condensed',sans-serif; background-color: black; vertical-align: middle; font-weight:300; color: white;text-align: center;font-size: 20px;}
 .centre_screen {
 	min-height: 100vh;
     display: flex;
